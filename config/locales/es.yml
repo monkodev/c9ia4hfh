@@ -15,3 +15,4 @@ es:
         description: "Descripción"
         beds: "Camas"
         guests: "Huespedes"
+        price_per_night: "Precio por noche"
