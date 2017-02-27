@@ -1,0 +1,17 @@
+es:
+  errors:
+    messages:
+      blank: "no puede estar en blanco"
+      invalid: "es inválido"
+
+  activerecord:
+    attributes:
+      user:
+        name: "Nombre"
+        password: "Contraseña"
+      room:
+        name: "Nombre"
+        title: "Título"
+        description: "Descripción"
+        beds: "Camas"
+        guests: "Huespedes"
